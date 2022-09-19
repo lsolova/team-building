@@ -6,3 +6,4 @@
 * [Weekly topics](./weekly-topics.md)
 * [Complex questions](./complex-questions.md)
 * [Juego de jueves games](./juego-de-jueves.md)
+* [Questions for logical thinking](./questions-for-logical-thinking.md)
