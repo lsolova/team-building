@@ -1,4 +1,4 @@
-# Weekly Topics
+# Weekly Topics / Theme weeks
 
 Recommended for teams already knowing each other on a basic level.
 
@@ -15,6 +15,9 @@ Recommended for teams already knowing each other on a basic level.
 ## Religion and philosophy
 
 - Is there something larger than us?
+- Where the knowledge of good and bad is coming from?
+- Which is the most important spiritual force?
+- Do you have ethic rules for your daily life?
 
 ## Superhero
 

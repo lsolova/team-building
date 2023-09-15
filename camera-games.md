@@ -13,7 +13,7 @@ Please, set your virtual background to
 - a place where you were very happy
 - a place where you would like to live
 - an aerial the city where you are living now
-- an aerial the city where you were born
+- a favorite place in your hometown
 - your favorite painting
 
 ## Wear
@@ -23,3 +23,4 @@ Please, wear
 - funny hat
 - sunglasses
 - your favourite cloth
+- your most colorful umbrella

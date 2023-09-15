@@ -22,6 +22,7 @@ Tell your favorite... Why?
 - national hero or famous person
 - outdoor activity
 - recipe (of meal or cocktail)
+- season
 - woman hero - recommended for International Women's Day
 
 ## Preferred
@@ -41,19 +42,23 @@ Choose one of the options and tell why.
 - dolphin or shark
 - cliff face or caves
 - coffee or tea
+- Coke or Pepsi
+- fast food or slow food
 - in which house would you spend a 2 week long quarantine
   1. Netflix + HBO Max, a soft blanket, a comfortable couch and desserts - bed bug
-  2. Swing in the garden, beer, outdoor fireplace, phising pond - with someone you hate
+  2. Swing in the garden, beer, outdoor fireplace, fishing pond - with someone you hate
   3. Gym room, protein shake, city sight, cute doggy - no phones and tablets
   4. Pool, coctails, grill, a large dog - no gaming consoles
   5. Library, garden, coffee, a cat - ghosts
   6. Jacuzzi, mountain sight, home cinema, vine cellar - no internet
 - koala or kangaroo
+- Mac or Windows :)
 - mountain or beach
 - rabbit or turtle
+- sparkling or still water
 - sun or moon
 - rain or wind
-- tomatoe or pepper
+- tomato or pepper
 - volcano or glacier
 - western horoscope sign
   - Aries (March 21 – April 19)
@@ -73,7 +78,6 @@ Choose one of the options and tell why.
 - wings or gills
 - wolf or sheep
   Related video: Nietsche's theory about wolf and sheep: <https://www.youtube.com/watch?v=1wOtoMD4IYg>
-- sparkling or still water
 
 ## Professional
 
@@ -121,3 +125,6 @@ What this term means for you? How do you do it?
 - Which is your sharpest sense?
 - What do you feel now? In which part of your body?
 - Let's measure: how long can you keep back your breath.
+- Do you believe in aliens?
+- Do you believe in ghosts?
+- What are there more in the world, doors or wheels?
